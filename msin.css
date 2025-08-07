@@ -1,0 +1,37 @@
+
+.hero-bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.281), rgba(12, 12, 12, 0.301)), url(/Assets/zach-graves-wtpTL_SzmhM-unsplash.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar {
+    color: #ffff;
+}
+
+.carousel-item {
+    height: 100vh !important;
+}
+
+.position {
+    position: absolute;
+    top: 14rem;
+}
+
+
+.card>img {
+    height: 200px !important;
+}
+
+.call {
+    height: 300px;
+}
+
+.abt-img{
+    height: 500px;
+    width: 700px;
+}
+.t-img{
+    height:150px;
+    width:200px;
+}
